@@ -3,4 +3,4 @@ En el siguiente repositorio encontrará la implementación del Patrón Mediator 
 UML antes de la implementación del Mediador:
 ![alt text](JavaApplication6/src/UML/UMLcasaInteligente.png)
 UML de la solución:
-![alt text](http://url/to/img.png)
+![alt text](JavaApplication6/src/UML/casaInteligenteMediator.png)
